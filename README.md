@@ -6,7 +6,7 @@
 
 ## I'm a Student at University of Muria Kudus
 
-- 🌱 I’m currently learning Java and CSS
+- 🌱 I’m currently learning Java, CSS, and HTML
 - 👯 I’m looking for a new friend that have same perspective
 - 🥅 2022 Goals: Contribute more in society
 - ⚡ Fun fact: I don't like small talk

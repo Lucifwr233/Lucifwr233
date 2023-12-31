@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning Java, CSS, and HTML, JS
 - 👯 I’m looking for a new friend that have same perspective
-- 🥅 2023 Goals: Contribute more in society
+- 🥅 2024 Goals: Contribute more in society
 - ⚡ Fun fact: I don't like small talk
 
 ### Contact:

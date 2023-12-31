@@ -47,6 +47,7 @@
 [website]: https://nadit.my.id/
 [twitter]: https://twitter.com/Aditiya233
 [instagram]: https://www.instagram.com/adty_aaaaa/
+![](https://komarev.com/ghpvc/?username=Lucifwr233)
 
 
 <p align="center"><a href="https://trakteer.id/n_aditiya" target="_blank"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Traktir" /></a></p>

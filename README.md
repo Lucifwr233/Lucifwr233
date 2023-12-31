@@ -1,5 +1,17 @@
 ### Hi there, I'm Adit 👋 
-[website] 
+
+[//]: # (<h1 align="center">Hi 👋, I'm Naufal Azkia</h1>)
+
+[//]: # (<h3 align="center">[website]</h3>)
+<p align="center"><a href="https://discord.com/users/452949404278587412" target="_blank" rel="noreferrer"><img align="center" src="https://lanyard.cnrad.dev/api/452949404278587412" alt="nadit" /></a></p>
+
+<p align="center"><img align="center" src="https://streak-stats.demolab.com?user=Lucifwr233&theme=whatsapp-dark2&hide_border=true" alt="nadit" /></p>
+
+<p align="center"><a href="" target="_blank"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Traktir" /></a></p>
+
+[//]: # (<p align="center"><a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a><a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a><a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>)
+
+
 
 [![Website](https://img.shields.io/website?label=nth.adtya&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://lucifwr233.github.io/nthadtya/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Aditiya233?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAditiya233&screen_name=Aditiya233)

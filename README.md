@@ -5,7 +5,7 @@
 [//]: # (<h3 align="center">[website]</h3>)
 <p align="center"><a href="https://discord.com/users/452949404278587412" target="_blank" rel="noreferrer"><img align="center" src="https://lanyard.cnrad.dev/api/452949404278587412" alt="nadit" /></a></p>
 
-<p align="center"><img align="center" src="https://streak-stats.demolab.com?user=Lucifwr233&theme=whatsapp-dark2&hide_border=true" alt="nadit" /></p>
+<p align="center"><img align="center" src="https://streak-stats.demolab.com?user=Lucifwr233&theme=nord&hide_border=true" alt="nadit" /></p>
 
 <p align="center"><a href="" target="_blank"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Traktir" /></a></p>
 

@@ -1,6 +1,5 @@
 ### Hi there, I'm Adit 👋 
 
-[//]: # (<h1 align="center">Hi 👋, I'm Naufal Azkia</h1>)
 
 [//]: # (<h3 align="center">[website]</h3>)
 <p align="center"><a href="https://discord.com/users/452949404278587412" target="_blank" rel="noreferrer"><img align="center" src="https://lanyard.cnrad.dev/api/452949404278587412" alt="nadit" /></a></p>
@@ -48,5 +47,6 @@
 [website]: https://nadit.my.id/
 [twitter]: https://twitter.com/Aditiya233
 [instagram]: https://www.instagram.com/adty_aaaaa/
+
 
 <p align="center"><a href="https://trakteer.id/n_aditiya" target="_blank"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Traktir" /></a></p>

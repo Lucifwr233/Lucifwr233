@@ -15,7 +15,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Aditiya233?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAditiya233&screen_name=Aditiya233)
 
 ## 
-
+ 
 - 🌱 I’m currently learning Java, CSS, and HTML, JS
 - 👯 I’m looking for a new friend that have same perspective
 - 🥅 2024 Goals: Contribute more in society

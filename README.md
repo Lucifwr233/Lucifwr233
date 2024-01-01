@@ -1,6 +1,6 @@
 # Hi there, I'm Adit 👋
 
-<p align="center>
+<p align="center">
   <a href="https://discord.com/users/452949404278587412" target="_blank" rel="noreferrer">
     <img src="https://lanyard.cnrad.dev/api/452949404278587412" alt="nadit" />
   </a>

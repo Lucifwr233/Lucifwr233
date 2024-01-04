@@ -18,7 +18,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Aditiya233?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAditiya233&screen_name=Aditiya233)
 
 ---
- 
+
 [website]: https://nadit.my.id/
 [twitter]: https://twitter.com/Aditiya233
 [instagram]: https://www.instagram.com/adty_aaaaa/

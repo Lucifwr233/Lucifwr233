@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://discord.com/users/452949404278587412" target="_blank" rel="noreferrer">
-    <img src="https://lanyard.cnrad.dev/api/452949404278587412" alt="nadit" />
+    <img src="https://lanyard.cnrad.dev/api/452949404278587412" alt="nadit"/>
   </a>
 </p>
 

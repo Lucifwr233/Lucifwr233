@@ -25,6 +25,6 @@
 ![](https://komarev.com/ghpvc/?username=Lucifwr233)
 <p>
   <a href="https://trakteer.id/n_aditiya" target="_blank">
-    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Traktir" />
+    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Traktir"/>
   </a>
 </p>

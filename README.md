@@ -6,6 +6,7 @@
   <img src="https://streak-stats.demolab.com?user=Lucifwr233&theme=nord&hide_border=true" alt="nadit"/>
 </p>
 
+
 <p>
   <a href="https://discord.com/users/452949404278587412" target="_blank" rel="noreferrer">
     <img src="https://lanyard.cnrad.dev/api/452949404278587412" alt="nadit"/>

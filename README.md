@@ -2,6 +2,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucifwr233&layout=compact&theme=nord)
 <p>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Lucifwr233)](https://git.io/streak-stats)
   <img src="https://streak-stats.demolab.com?user=Lucifwr233&theme=nord&hide_border=true" alt="nadit"/>
 </p>
 

@@ -16,14 +16,11 @@
 
 <br />
 
-<a href="https://lucifwr233.github.io/nthadtya/">
-  <img src="https://img.shields.io/website?label=nth.adtya&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com" alt="Website" />
+<a href="https://www.instagram.com/nthadtya/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Follow" />
 </a>
 <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAditiya233&screen_name=Aditiya233">
-  <img src="https://img.shields.io/twitter/follow/Aditiya233?color=1DA1F2&logo=x&style=for-the-badge" alt="Twitter Follow" />
-</a>
-<a href="https://www.instagram.com/adty_aaaaa/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Follow" />
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Follow" />
 </a>
 
 ---

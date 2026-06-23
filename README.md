@@ -1,7 +1,6 @@
-<div align="center">
-
 # Hi there, I'm Adit 👋
 
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucifwr233&layout=compact&theme=nord" alt="GitHub stats" />
 
 <p align="center">

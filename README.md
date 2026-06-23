@@ -1,6 +1,18 @@
 # Hi there, I'm Adit 👋
 
 <div align="center">
+
+<pre>
+ _   _       _ _   _ 
+| \ | |     | | | (_)
+|  \| | __ _| | |_ _  __ _ 
+| . ` |/ _` | | __| |/ _` |
+| |\  | (_| | | |_| | (_| |
+|_| \_|\__,_|_|\__|_|\__,_|
+</pre>
+
+<br />
+  
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td valign="middle" style="padding-right: 10px;">

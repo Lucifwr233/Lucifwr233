@@ -3,12 +3,12 @@
 <div align="center">
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td valign="top" style="padding-right: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucifwr233&layout=compact&theme=nord" alt="GitHub stats" />
+    <td valign="middle" style="padding-right: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucifwr233&layout=compact&theme=nord" height="215" alt="GitHub stats" />
     </td>
-    <td valign="top" style="padding-left: 10px;">
+    <td valign="middle" style="padding-left: 10px;">
       <a href="https://discord.com/users/452949404278587412" target="_blank" rel="noreferrer">
-        <img src="https://lanyard.cnrad.dev/api/452949404278587412" alt="nadit"/>
+        <img src="https://lanyard.cnrad.dev/api/452949404278587412" height="215" alt="nadit"/>
       </a>
     </td>
   </tr>

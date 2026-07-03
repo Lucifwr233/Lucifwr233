@@ -7,7 +7,7 @@
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td valign="middle" style="padding-right: 10px;">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Lucifwr233&layout=compact&langs_count=4&theme=ambient_gradient"
+      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Lucifwr233&layout=compact&hide_title=true&langs_count=5&disable_animations=true&theme=one_dark_pro"
     </td>
     <td valign="middle" style="padding-left: 10px;">
       <a href="https://discord.com/users/452949404278587412" target="_blank" rel="noreferrer">

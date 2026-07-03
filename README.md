@@ -7,8 +7,8 @@
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td valign="middle" style="padding-right: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucifwr233&layout=compact&theme=nord" height="215" alt="GitHub stats" />
       <img src="https://github-stats-extended.vercel.app/api?username=Lucifwr233&theme=radical"
+        [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Lucifwr233)](https://github.com/stats-organization/github-stats-extended)
     </td>
     <td valign="middle" style="padding-left: 10px;">
       <a href="https://discord.com/users/452949404278587412" target="_blank" rel="noreferrer">

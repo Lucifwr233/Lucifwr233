@@ -1,10 +1,8 @@
 # Hi there, I'm Adit 👋
 
 
-
 <div align="center">
 
-  
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td valign="middle" style="padding-right: 10px;">
